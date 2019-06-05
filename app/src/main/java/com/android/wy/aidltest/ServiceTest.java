@@ -6,7 +6,6 @@ import android.os.IBinder;
 import android.util.Log;
 
 /**
- * @author 伍易科技
  * @description:
  * @date :2019/6/5 14:25
  */
